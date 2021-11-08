@@ -148,7 +148,7 @@ p {
   float: left;
   width: 50%;
   background: url("../img/pexels-francesco-ungaro-96444.jpg") no-repeat;
-  min-height: 100%
+  min-height: 100%;
 }
 
 #home-info .info-content {
